@@ -1,0 +1,7 @@
+#Mon Oct 02 12:49:08 EDT 2017
+base.0=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f1e0bfbb1f0e57173664ab55b88f12b7d80a4859
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ccf20845606c5bfc09c923e19d7d528cd4770500\\classes.dex
+base.1=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ccf20845606c5bfc09c923e19d7d528cd4770500
+file.0=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f1e0bfbb1f0e57173664ab55b88f12b7d80a4859\\classes.dex

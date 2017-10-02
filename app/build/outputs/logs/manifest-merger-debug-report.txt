@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:18.0.0] C:\Users\cazza223\.android\build-cache\c83fc7ab228ad0e921a3894a23c70b1954c87f53\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\cazza223\.android\build-cache\f335052c4357b58bb420d4f612ef795835893521\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:16:9-53
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:21:22-77
+application
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:23:5-41:19
+MERGED from [com.android.support:appcompat-v7:18.0.0] C:\Users\cazza223\.android\build-cache\c83fc7ab228ad0e921a3894a23c70b1954c87f53\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\cazza223\.android\build-cache\f335052c4357b58bb420d4f612ef795835893521\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.libelium.mysignalsconnecttest.MainNew
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:29:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:34:27-74
+service#com.libelium.mysignalsconnecttest.MySignalsService
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:37:9-39:39
+	android:exported
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:38:13-45
+activity#com.libelium.mysignalsconnecttest.MainActivity
+ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:40:9-59
+	android:name
+		ADDED from C:\Users\cazza223\AndroidStudioProjects\CRADLE\app\src\main\AndroidManifest.xml:40:19-47

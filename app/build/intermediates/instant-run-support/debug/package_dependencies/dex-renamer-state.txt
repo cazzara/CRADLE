@@ -1,0 +1,16 @@
+#Sat Sep 30 11:09:54 EDT 2017
+renamed.4=classes4.dex
+renamed.3=classes5.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_c8b009dc4c8eb938678c917b79156fc6a6f93c9e
+renamed.0=classes.dex
+base.3=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\mysignalsconnectkit_728eb47294e2192046574ae1687ed564e1940522
+base.2=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_232641e9e4e268c14987bc58d35b1eb2cc0b1a0f
+base.1=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8a2c303fbfc9a40e302bd641742a46baee229350
+base.0=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_687fbeb5475a7579aed84caf569fd8f6773bdbd3
+file.4=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_c8b009dc4c8eb938678c917b79156fc6a6f93c9e\\classes.dex
+file.3=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\mysignalsconnectkit_728eb47294e2192046574ae1687ed564e1940522\\classes.dex
+file.2=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_232641e9e4e268c14987bc58d35b1eb2cc0b1a0f\\classes.dex
+file.1=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8a2c303fbfc9a40e302bd641742a46baee229350\\classes.dex
+file.0=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_687fbeb5475a7579aed84caf569fd8f6773bdbd3\\classes.dex

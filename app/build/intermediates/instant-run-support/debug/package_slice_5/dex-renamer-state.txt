@@ -1,0 +1,4 @@
+#Mon Oct 02 12:56:52 EDT 2017
+base.0=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\cazza223\\AndroidStudioProjects\\MySignalsConnectTestNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
